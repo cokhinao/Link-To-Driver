@@ -29,7 +29,7 @@ class Var(object):
     else:
         ON_HEROKU = False
     FQDN = (
-        str(environ.get("FQDN", "stream-driver.onrender.com"))
+        str(environ.get("FQDN", "link-driver.iapk.io"))
         if not ON_HEROKU or environ.get("FQDN")
         else APP_NAME + ".herokuapp.com"
     )
