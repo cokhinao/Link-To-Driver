@@ -1,4 +1,4 @@
-# This file is a part of oVo-FileStreamBot 
+# This file is a part of Link-To-Driver
 
 
 from ..vars import Var
