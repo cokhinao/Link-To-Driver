@@ -1,3 +1,4 @@
-# Link-To-Driver
+# Link-To-Telegram
 
-Chạy nhiều user => chết link
+Bot chạy chiếm nhiều RAM
+
